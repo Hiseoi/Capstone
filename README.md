@@ -3,7 +3,7 @@
 
 
 # Contributors
-- 고서연
+- [고서연](https://github.com/seoyeonmmn)
 - [김현서](https://github.com/Hiseoi)
 - 김민형
 - 이 수
