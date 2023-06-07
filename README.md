@@ -6,4 +6,4 @@
 - [고서연](https://github.com/seoyeonmmn)
 - [김현서](https://github.com/Hiseoi)
 - [김민형](https://github.com/mhkim213)
-- 이 수
+- [이 수](https://github.com/soo101710)
